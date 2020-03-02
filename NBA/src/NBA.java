@@ -62,8 +62,7 @@ public class NBA {
 		
 		//getConnection();
 		
-		
-	}
+		//주석 달기
 	
 	public static String[][] getNBA(){
 		try {
